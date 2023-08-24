@@ -20,7 +20,7 @@ Subtasks involved:
   - [**ResNet Paper**](https://arxiv.org/abs/1512.03385)
  
 
-## [**Assignment 1**](./Task2/)
+## [**Assignment 2**](./Task2/)
 
 The task is to analyze the performance of Visual Transformer Models (ViT) like _B12_, on both fine-tuned, and base models. We use **EuroSAT dataset** for training.
 
@@ -31,3 +31,4 @@ Subtasks involved:
 
 
 ### References
+- [**Hugging Face**](https://huggingface.co/docs/transformers/main/model_doc/vit)
