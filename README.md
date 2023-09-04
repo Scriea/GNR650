@@ -3,20 +3,6 @@
 Welcome to the GitHub repository for the course GNR650 - Advanced Topics in Deep Learning for Image Analysis!. 
 This is a collaborated repository between Ashutosh(200100037) and Utsav(200100054).
 
-## [**Assignment 2**](./Task2/)
-
-The task is to analyze the performance of Visual Transformer Models (ViT) like _B12_, on both fine-tuned, and base models. We use **EuroSAT dataset** for training.
-
-Subtasks involved:
-
-  - Fine-tune final layer; Fine-tune bottom layers; Full fine-tune; Inference from pre-trained model.
-  - Visualize feature maps and compare
-
-
-### References
-- [**Hugging Face**](https://huggingface.co/docs/transformers/main/model_doc/vit)
-
-
 
 ## [**Assignment 1**](./Task1/)
 
@@ -48,19 +34,12 @@ Subtasks involved:
 
 ### References
 - [**Hugging Face**](https://huggingface.co/docs/transformers/main/model_doc/vit)
+- [**Tensorflow Datasets - Eurosat**](https://www.tensorflow.org/datasets/catalog/eurosat)
 
 
 
-## [**Paper Review - ViViT**](.//)
+## [**Paper Review - ViViT**](./Paper_Review/ViViT_Review.pdf)
 
-The task is to analyze the performance of Visual Transformer Models (ViT) like _B12_, on both fine-tuned, and base models. We use **EuroSAT dataset** for training.
+A one page review on paper ViViT: A Video Vision Transformer, [link](https://arxiv.org/abs/2103.15691)
 
-Subtasks involved:
-
-  - Fine-tune final layer; Fine-tune bottom layers; Full fine-tune; Inference from pre-trained model.
-  - Visualize feature maps and compare
-
-
-### References
-- [**Hugging Face**](https://huggingface.co/docs/transformers/main/model_doc/vit)
 
