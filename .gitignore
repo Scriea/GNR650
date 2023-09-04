@@ -60,3 +60,5 @@ myenv/
 ehthumbs.db
 Icon?
 Thumbs.db
+
+temp/
