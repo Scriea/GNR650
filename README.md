@@ -41,6 +41,6 @@ Subtasks involved:
 
 ## [**Paper Review - ViViT**](./Paper_Review/ViViT_Review.pdf)
 
-A one page review on paper ViViT: A Video Vision Transformer, [link](https://arxiv.org/abs/2103.15691)
+A one page review on paper [ViViT](https://arxiv.org/abs/2103.15691): A Video Vision Transformer
 
 ---
