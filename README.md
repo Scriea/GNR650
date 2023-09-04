@@ -20,7 +20,8 @@ Subtasks involved:
 ### References
   - [**Keras**](https://keras.io/)
   - [**ResNet Paper**](https://arxiv.org/abs/1512.03385)
- 
+
+ ---
 
 ## [**Assignment 2**](./Task2/)
 
@@ -36,10 +37,10 @@ Subtasks involved:
 - [**Hugging Face**](https://huggingface.co/docs/transformers/main/model_doc/vit)
 - [**Tensorflow Datasets - Eurosat**](https://www.tensorflow.org/datasets/catalog/eurosat)
 
-
+---
 
 ## [**Paper Review - ViViT**](./Paper_Review/ViViT_Review.pdf)
 
 A one page review on paper ViViT: A Video Vision Transformer, [link](https://arxiv.org/abs/2103.15691)
 
-
+---
