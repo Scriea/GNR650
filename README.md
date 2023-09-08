@@ -2,6 +2,7 @@
 
 Welcome to the GitHub repository for the course GNR650 - Advanced Topics in Deep Learning for Image Analysis!. 
 This is a collaborated repository between Ashutosh(200100037) and Utsav(200100054).
+[**Link to Drive**](https://drive.google.com/drive/folders/1yl_HxtUj31QARmwFAvjTQfG-EfqfWZis?usp=sharing)
 
 
 ## [**Assignment 1**](./Task1/)
