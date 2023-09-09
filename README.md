@@ -32,8 +32,10 @@ Subtasks involved:
 
   - Fine-tune final layer; Fine-tune bottom layers; Full fine-tune; Inference from pre-trained model.
   - Visualize feature maps and compare
-
-
+  
+_Note: //
+Due to lack of computation resources we weren't able to train for sufficient number of epochs. Its clearly visible from the train-validation loss curves that more iterations are needed for fine-tuning the model effectively.
+_
 ### References
 - [**Hugging Face**](https://huggingface.co/docs/transformers/main/model_doc/vit)
 - [**Tensorflow Datasets - Eurosat**](https://www.tensorflow.org/datasets/catalog/eurosat)
