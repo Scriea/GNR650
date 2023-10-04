@@ -48,13 +48,16 @@ Due to lack of computation resources we weren't able to train for sufficient num
 A one page review on paper [ViViT](https://arxiv.org/abs/2103.15691): A Video Vision Transformer \
 
 The paper titled "ViViT: A Video Vision Transformer" by Anurag Arnab et al. from Google Research introduces a pure-transformer based model for video classification. Building on the success of transformer models in image classification, the paper proposes a model that extracts spatiotemporal tokens from input videos, which are then encoded using transformer layers. The paper addresses the challenges of handling long sequences of tokens in videos by proposing efficient model variants that factorize spatial and temporal dimensions. Despite the known limitations of transformer-based models requiring large datasets, the authors demonstrate how to effectively train on smaller datasets. They achieve state-of-the-art results on several video classification benchmarks, surpassing previous methods based on deep 3D convolutional networks.\
-Please read the full review [here](./Paper_Review/ViViT_Review.pdf)
+Please read the full review [here](./Paper_Review/ViViT_Review.pdf).
 
 ---
 
 ## [**Paper Review - Universal Domain Adaptation through Self-Supervision**](./Paper_Review/Universal_Domain_Adaptation_through_Self_Supervision-Review.pdf)
 
-A one page review on paper [Universal Domain Adaptation through Self-Supervision](https://arxiv.org/abs/2002.07953).
+A one page review on paper [Universal Domain Adaptation through Self-Supervision](https://arxiv.org/abs/2002.07953) \
+
+The paper introduces a new general domain adaptation framework called Domain Adaptative Neighborhood Clustering via Entropy optimization (DANCE). DANCE addresses the challenges of universal domain adaptation by leveraging a novel neighborhood clustering technique. This self-supervised approach learns the structure of the target domain, while entropy-based feature alignment aligns or rejects target features based on their entropy. Experiments demonstrate DANCE's superiority over baselines in various domain adaptation settings. \
+Please read the full review [here](./Paper_Review/Universal_Domain_Adaptation_through_Self_Supervision-Review.pdf).
 
 ---
 
