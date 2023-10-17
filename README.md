@@ -34,7 +34,7 @@ Subtasks involved:
   - Visualize feature maps and compare
   
 _Note: \
-Due to lack of computation resources we weren't able to train for sufficient number of epochs. Its clearly visible from the train-validation loss curves that more iterations are needed for fine-tuning the model effectively._
+Due to lack of computation resources we weren't able to train for sufficient number of epochs. Its clearly visible from the train-validation loss curves that more iterations are needed for fine-tuning the model effectively. \
 
 
 ### References
@@ -43,7 +43,7 @@ Due to lack of computation resources we weren't able to train for sufficient num
 
 ---
 
-## [**Paper Review - ViViT**](https://arxiv.org/abs/2103.1569))
+## [**Paper Review - ViViT**](https://arxiv.org/abs/2103.1569)
 
 
 
@@ -59,4 +59,10 @@ Please read the full review [here](./Paper_Review/Universal_Domain_Adaptation_th
 
 ---
 
+## [**Project - Video Inpainting**](https://arxiv.org/abs/2002.07953)
+
+  We'll try to do some experiments using existing state of the art models for Video Inpainting.
+### References
+- [**ProPainter**](https://arxiv.org/pdf/2309.03897v1.pdf)
+---
 
