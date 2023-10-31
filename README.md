@@ -43,6 +43,29 @@ Due to lack of computation resources we weren't able to train for sufficient num
 
 ---
 
+
+
+## [**Assignment 3**](./Task3/)
+
+RePainting
+
+Subtasks involved:
+
+  - Task 1
+  - Task 2
+  
+_Note: \
+Note 1 \
+
+
+### References
+- Ref 1
+- Ref 2
+
+---
+
+
+
 ## [**Paper Review - ViViT**](https://arxiv.org/abs/2103.1569)
 
 
