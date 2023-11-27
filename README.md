@@ -86,6 +86,6 @@ Please read the full review [here](./Paper_Review/Universal_Domain_Adaptation_th
 
   We'll try to do some experiments using existing state of the art models for Video Inpainting.
 ### References
-- [**ProPainter**](https://arxiv.org/pdf/2309.03897v1.pdf)
+- [**Repaint**](https://arxiv.org/abs/2201.09865)
 ---
 
